@@ -1,0 +1,16 @@
+main: com.HTML.reservedslots.RS
+name: ReservedSlots
+version: 1.1
+author: HTML
+description: Reserve slots for your premium players!
+
+commands:
+  reservedslots:
+    description: Main command for ReservedSlots.
+    aliases: [rs]
+
+permissions:   
+  reservedslots.bypass:
+    description: Allows you to join a full server.
+  reservedslots.admin: 
+    description: Allows you to do admin commands!
